@@ -36,9 +36,10 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODBINY)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+  [![GODBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODBINY)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODBINY)](https://github.com/anuraghazra/github-readme-stats)
+
+## Algorithm
   ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blacckbin)
   
 </div>
